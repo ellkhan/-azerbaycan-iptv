@@ -1,0 +1,24 @@
+#EXTM3U
+#EXTINF:-1,İctimai TV
+https://live.itv.az/
+
+#EXTINF:-1,Az TV
+https://str.yodacdn.net/azertv/index.m3u8?token=eyJpcCI6IjE4OC4yNTMuMjE3LjI0MyIsInVhIjoiTW96aWxsYS81LjAgKGlQaG9uZTsgQ1BVIGlQaG9uZSBPUyAyNl81IGxpa2UgTWFjIE9TIFgpIEFwcGxlV2ViS2l0LzYwNS4xLjE1IChLSFRNTCwgbGlrZSBHZWNrbykgTW9iaWxlLzE1RTE0OCBWZXJzaW9uLzI2IiwiZXhwIjoxNzkwMjg4NTU5LCJqdGkiOiJjOWVhMDE5OTc5ZjVlYzZkIn0%3D.mn4GEpxwiY7khAytoBeReKo4J13aZ7fvjZuNNN5cb9E%3D
+
+#EXTINF:-1,Mədəniyyət TV
+https://str.yodacdn.net/medeniyyettele/index.m3u8?token=eyJpcCI6IjE4OC4yNTMuMjE3LjI0MyIsInVhIjoiTW96aWxsYS81LjAgKGlQaG9uZTsgQ1BVIGlQaG9uZSBPUyAyNl81IGxpa2UgTWFjIE9TIFgpIEFwcGxlV2ViS2l0LzYwNS4xLjE1IChLSFRNTCwgbGlrZSBHZWNrbykgTW9iaWxlLzE1RTE0OCBWZXJzaW9uLzI2IiwiZXhwIjoxNzkwMjg4NjQwLCJqdGkiOiIyODkzZWRjMGMxZmZkYzM0In0=.5x95/Y9HjjgUwte7tc70e54fCnSmAaJWTHZxUj+0Qw4=
+
+#EXTINF:-1,İdman TV
+https://str.yodacdn.net/idmantele/index.m3u8?token=eyJpcCI6IjE4OC4yNTMuMjA5LjExNSIsInVhIjoiTW96aWxsYS81LjAgKGlQaG9uZTsgQ1BVIGlQaG9uZSBPUyAyNl81IGxpa2UgTWFjIE9TIFgpIEFwcGxlV2ViS2l0LzYwNS4xLjE1IChLSFRNTCwgbGlrZSBHZWNrbykgTW9iaWxlLzE1RTE0OCBWZXJzaW9uLzI2IiwiZXhwIjoxNzkwMjg4NzA4LCJqdGkiOiJjN2VmNzkyN2I4ZWI0MThkIn0=.6ecLpDp3Yv9dV6N91zLUyEu82DX6TZcMz9em81snrQA=
+
+#EXTINF:-1,Space TV
+https://space.tvstream.az/hls/stream8/index.m3u8
+
+#EXTINF:-1,Baku TV
+https://rtmp.baku.tv/hls/bakutv.m3u8
+
+#EXTINF:-1,ATV
+https://lives.atv.az:5443/ATV_TV_STREAM/streams/atvcanli.m3u8
+
+#EXTINF:-1,ARB TV
+https://yayin2.canlitv.fun/live/arb.stream/playlist.m3u8?hash=ef9e0511d8cd2253fc82314b3c1c122f
