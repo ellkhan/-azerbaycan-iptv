@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1,İctimai TV
-https://live.itv.az/
+https://live.itv.az/itv.m3u8
 
 #EXTINF:-1,Az TV
 https://str.yodacdn.net/azertv/index.m3u8?token=eyJpcCI6IjE4OC4yNTMuMjE3LjI0MyIsInVhIjoiTW96aWxsYS81LjAgKGlQaG9uZTsgQ1BVIGlQaG9uZSBPUyAyNl81IGxpa2UgTWFjIE9TIFgpIEFwcGxlV2ViS2l0LzYwNS4xLjE1IChLSFRNTCwgbGlrZSBHZWNrbykgTW9iaWxlLzE1RTE0OCBWZXJzaW9uLzI2IiwiZXhwIjoxNzkwMjg4NTU5LCJqdGkiOiJjOWVhMDE5OTc5ZjVlYzZkIn0%3D.mn4GEpxwiY7khAytoBeReKo4J13aZ7fvjZuNNN5cb9E%3D
@@ -12,7 +12,7 @@ https://str.yodacdn.net/medeniyyettele/index.m3u8?token=eyJpcCI6IjE4OC4yNTMuMjE3
 https://str.yodacdn.net/idmantele/index.m3u8?token=eyJpcCI6IjE4OC4yNTMuMjA5LjExNSIsInVhIjoiTW96aWxsYS81LjAgKGlQaG9uZTsgQ1BVIGlQaG9uZSBPUyAyNl81IGxpa2UgTWFjIE9TIFgpIEFwcGxlV2ViS2l0LzYwNS4xLjE1IChLSFRNTCwgbGlrZSBHZWNrbykgTW9iaWxlLzE1RTE0OCBWZXJzaW9uLzI2IiwiZXhwIjoxNzkwMjg4NzA4LCJqdGkiOiJjN2VmNzkyN2I4ZWI0MThkIn0=.6ecLpDp3Yv9dV6N91zLUyEu82DX6TZcMz9em81snrQA=
 
 #EXTINF:-1,Space TV
-https://space.tvstream.az/hls/stream8/index.m3u8
+https://str.yodacdn.net/space/index.m3u8?token=eyJpcCI6IjE1OC4xODEuNDIuNzAiLCJ1YSI6Ik1vemlsbGEvNS4wIChMaW51eDsgQW5kcm9pZCAxMDsgSykgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzE1My4wLjAuMCBNb2JpbGUgU2FmYXJpLzUzNy4zNiIsImV4cCI6MTc5MDM0NTAxOCwianRpIjoiOTA3MDQyYmQzNjQyODlhNiJ9.BFxYS2Ta1cItDu5U62HNJZv3HZ/88SK0fvjlSA4GhNo=
 
 #EXTINF:-1,Baku TV
 https://rtmp.baku.tv/hls/bakutv.m3u8
@@ -20,5 +20,26 @@ https://rtmp.baku.tv/hls/bakutv.m3u8
 #EXTINF:-1,ATV
 https://lives.atv.az:5443/ATV_TV_STREAM/streams/atvcanli.m3u8
 
-#EXTINF:-1,ARB TV
-https://yayin2.canlitv.fun/live/arb.stream/playlist.m3u8?hash=ef9e0511d8cd2253fc82314b3c1c122f
+#EXTINF:-1,CBC Sport
+https://cbcsports-live.lg.mncdn.com/cbcsports_live/cbcsports/playlist.m3u8
+
+#EXTINF:-1,Xezer TV
+https://str.yodacdn.net/xazartv/index.m3u8?token=eyJpcCI6IjE4OC4yNTMuMjA4LjQ0IiwidWEiOiJNb3ppbGxhLzUuMCAoaVBob25lOyBDUFUgaVBob25lIE9TIDI2XzZfMiBsaWtlIE1hYyBPUyBYKSBBcHBsZVdlYktpdC82MDUuMS4xNSAoS0hUTUwsIGxpa2UgR2Vja28pIENyaU9TLzE1My4wLjgwMTAuMjQgTW8iLCJleHAiOjE3OTAzODM1OTIsImp0aSI6IjYxOTdlNTg5MjJhNjUzNzIifQ==.VJTzlRtGaHHYoZdQyW+PXiwKpTnMsNLOJnSin4jDKBM=
+
+#EXTINF:-1,Россия 1
+https://stream.smotrim.ru/hls2/russia_hd/playlist_6.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNS8yMDI2IDE6MjU6NDkgUE0maGFzaF92YWx1ZT0xYzlJRlRvdmZNR2tLZEg1czZGV1RBPT0mdmFsaWRtaW51dGVzPTE0NDA=
+
+#EXTINF:-1,Россия РТР
+https://streaming.goodstream.icu/live/211.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNS8yMDI2IDExOjQ3OjAzIFBNJmhhc2hfdmFsdWU9aFZFamorcWoxZWtzNFllQ3haOVFKQT09JnZhbGlkbWludXRlcz0xNDQw
+
+#EXTINF:-1,Россия 24
+https://vkvsd45.okcdn.ru/hls/7939609463384.m3u8/sig/rOmxkt_q0jc/expires/1790466791998/srcIp/188.253.210.33/urls/176.112.172.74/clientType/14/srcAg/SAFARI_IPHONE_OTHER/mid/9476881853272/7939609463384_high/index.m3u8
+
+#EXTINF:-1,Первый канал
+https://vsd269.okcdn.ru/hls/528984312566.m3u8/sig/E51M0lGlC9M/expires/1790466026021/srcIp/188.253.210.33/urls/178.237.23.61/clientType/0/srcAg/SAFARI_IPHONE_OTHER/mid/1115050286838/video.m3u8?p
+
+#EXTINF:-1,НТВ
+https://vkvsd257.okcdn.ru/hls/11411607390827.m3u8/sig/yDvPCBHmUmE/expires/1790466181066/srcIp/188.253.216.33/urls/95.163.35.105/clientType/14/srcAg/SAFARI_IPHONE_OTHER/mid/12962487348075/video.m3u8?p
+
+#EXTINF:-1,НТВ МИР
+https://streaming.thestream.cyou/live/213.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNi8yMDI2IDEyOjAwOjQ3IEFNJmhhc2hfdmFsdWU9Z1o0SmFPYVYzbWlhUXZzMm1Fc2RhQT09JnZhbGlkbWludXRlcz0xNDQw
